@@ -31,11 +31,8 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
 	go.uber.org/zap v1.15.0
-	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/net v0.0.0-20200506145744-7e3656a0809f // indirect
-	golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f // indirect
-	golang.org/x/tools v0.0.0-20200509030707-2212a7e161a5 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
